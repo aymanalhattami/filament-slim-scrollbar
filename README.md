@@ -1,10 +1,22 @@
-# Very short description of the package
+# Filament Slim Scrollbar
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/aymanalhattami/filament-slim-scrollbar.svg?style=flat-square)](https://packagist.org/packages/aymanalhattami/filament-slim-scrollbar)
 [![Total Downloads](https://img.shields.io/packagist/dt/aymanalhattami/filament-slim-scrollbar.svg?style=flat-square)](https://packagist.org/packages/aymanalhattami/filament-slim-scrollbar)
-![GitHub Actions](https://github.com/aymanalhattami/filament-slim-scrollbar/actions/workflows/main.yml/badge.svg)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+Simple package to make the application's scrollbars slim.
+
+* It can be used for sidebar scrollbars, table scrollbars, and any other scrollbar in the application.
+
+* Support both the dark and light modes.
+
+* No JavaScript or CSS libraries; only pure CSS.
+
+## Screenshots
+Default scrollbar
+![filament-page-with-sidebar](./images/before.png)
+
+After using the package, the scrollbar is slim and the application looks nicer
+![filament-page-with-sidebar](./images/after.png)
 
 ## Installation
 
@@ -16,15 +28,7 @@ composer require aymanalhattami/filament-slim-scrollbar
 
 ## Usage
 
-```php
-// Usage description here
-```
-
-### Testing
-
-```bash
-composer test
-```
+Just use composer to install the package.
 
 ### Changelog
 

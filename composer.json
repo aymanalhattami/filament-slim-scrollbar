@@ -1,9 +1,12 @@
 {
     "name": "aymanalhattami/filament-slim-scrollbar",
-    "description": "Slim scrollbar for navigation bar menu and for table ",
+    "description": "Slim scrollbar for sidebar scrollbars, table scrollbars, and any other scrollbar in the application.",
     "keywords": [
         "aymanalhattami",
-        "filament-slim-scrollbar"
+        "filament-slim-scrollbar",
+        "filament",
+        "css slim scrollbar",
+        "pure css scrollbar"
     ],
     "homepage": "https://github.com/aymanalhattami/filament-slim-scrollbar",
     "license": "MIT",
