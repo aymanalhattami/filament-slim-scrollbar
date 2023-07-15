@@ -1,0 +1,6 @@
+/node_modules
+/vendor
+/node_modules
+/.history
+composer.lock
+TODO.md
