@@ -1,6 +1,6 @@
 {
     "name": "aymanalhattami/filament-slim-scrollbar",
-    "description": "Slim scrollbar for sidebar scrollbar, table scrollbars, and any other scrollbar in the application.",
+    "description": "Slim scrollbar for sidebar scrollbar, table scrollbar, and any other scrollbar in the application.",
     "keywords": [
         "aymanalhattami",
         "filament-slim-scrollbar",
@@ -19,9 +19,8 @@
         }
     ],
     "require": {
-    },
-    "require-dev": {
-        "filament/filament": "^2.0"
+        "filament/filament": "^3.0",
+        "spatie/laravel-package-tools": "^1.15"
     },
     "autoload": {
         "psr-4": {
@@ -50,5 +49,6 @@
                 "FilamentSlimScrollbar": "Aymanalhattami\\FilamentSlimScrollbar\\FilamentSlimScrollbarFacade"
             }
         }
-    }
+    },
+    "minimum-stability": "dev"
 }

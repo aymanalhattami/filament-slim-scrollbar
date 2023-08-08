@@ -2,11 +2,11 @@
 
 namespace Aymanalhattami\FilamentSlimScrollbar;
 
-use Filament\PluginServiceProvider;
 use Spatie\LaravelPackageTools\Package;
+use Spatie\LaravelPackageTools\PackageServiceProvider;
 
 
-class FilamentSlimScrollbarServiceProvider extends PluginServiceProvider
+class FilamentSlimScrollbarServiceProvider extends PackageServiceProvider
 {
     public static string $name = 'filament-slim-scrollbar';
 

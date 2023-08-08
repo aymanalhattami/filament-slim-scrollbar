@@ -13,10 +13,13 @@ Simple package to make the application's scrollbars slim.
 
 ## Screenshots
 Default scrollbar
-![filament-page-with-sidebar](./images/before.png)
+![filament-page-with-sidebar](https://raw.githubusercontent.com/aymanalhattami/filament-slim-scrollbar/main/images/before.png)
 
 After using the package, the scrollbar is slim and the application looks nicer
-![filament-page-with-sidebar](./images/after.png)
+![filament-page-with-sidebar](https://raw.githubusercontent.com/aymanalhattami/filament-slim-scrollbar/main/images/after.png)
+
+> **Note:**
+> For Filament 2.x use version 1.x
 
 ## Installation
 
