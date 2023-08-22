@@ -23,7 +23,7 @@ After using the package, the scrollbar is slim and the application looks nicer
 You can install the package via composer:
 
 ```bash
-composer require aymanalhattami/filament-slim-scrollbar
+composer require aymanalhattami/filament-slim-scrollbar:"^1.0"
 ```
 
 ## Usage
