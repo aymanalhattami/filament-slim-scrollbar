@@ -19,7 +19,8 @@ After using the package, the scrollbar is slim and the application looks nicer
 ![filament-page-with-sidebar](https://raw.githubusercontent.com/aymanalhattami/filament-slim-scrollbar/main/images/after.png)
 
 > **Note:**
-> For Filament 2.x use version 1.x
+> For [Filament 2.x](https://filamentphp.com/docs/2.x/admin/installation)  use [version 1.x](https://github.com/aymanalhattami/filament-slim-scrollbar/tree/1.x)
+
 
 ## Installation
 
