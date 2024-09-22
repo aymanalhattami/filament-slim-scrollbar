@@ -3,10 +3,9 @@
 namespace Aymanalhattami\FilamentSlimScrollbar;
 
 use Filament\Support\Assets\Css;
-use Spatie\LaravelPackageTools\Package;
 use Filament\Support\Facades\FilamentAsset;
+use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-
 
 class FilamentSlimScrollbarServiceProvider extends PackageServiceProvider
 {
@@ -17,11 +16,11 @@ class FilamentSlimScrollbarServiceProvider extends PackageServiceProvider
         $package->name(static::$name)
             ->hasAssets();
 
-            FilamentAsset::register(
-                assets: [
-                    Css::make(static::$name, __DIR__ . '/../resources/dist/app.css'),
-                ],
-                package: 'aymanalhattami/filament-slim-scrollbar'
-            );
+        FilamentAsset::register(
+            assets: [
+                Css::make(static::$name, __DIR__.'/../resources/dist/app.css'),
+            ],
+            package: 'aymanalhattami/filament-slim-scrollbar'
+        );
     }
 }
